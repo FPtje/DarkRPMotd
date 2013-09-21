@@ -1,0 +1,4 @@
+Hi there, this is the DarkRP MOTD.
+Remember! DarkRP 2.5.0 will be released on October 4th 2013.
+Read the migrating page!
+http://wiki.darkrp.com/index.php/MigratingTo2.5.0
