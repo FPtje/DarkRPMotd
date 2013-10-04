@@ -1,4 +1,17 @@
-Hi there, this is the DarkRP MOTD.
-Remember! DarkRP 2.5.0 will be released on October 4th 2013.
-Read the migrating page!
+Attention! Attention! Big news!
+
+DarkRP 2.5.0 has been released!
+
+If you're not on DarkRP 2.5.0 yet, read this:
 http://wiki.darkrp.com/index.php/MigratingTo2.5.0
+
+You can create an issue on the DarkRP github page if it is impossible to modify DarkRP without editing core files.
+
+NOTE: the github issues page is NOT for asking questions like "HOW DO I MOD DARKRP!?"
+There's a wiki for that:
+http://wiki.darkrp.com/index.php/Main_Page
+
+If you can't find it on the wiki, there's a forum for you to ask your questions:
+http://forum.darkrp.com/
+
+ONLY make an issue on the github page if you know what you're talking about.
