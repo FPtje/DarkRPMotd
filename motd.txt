@@ -3,3 +3,9 @@ Several things today:
 2. Some ATM mods contain exploits with which the player can get infinite money. Please disable or fix your ATM mods!
 3. Some server owners have trouble with doors not saving. If you have this problem, please upload your sv.db file and talk about it here:
 https://github.com/FPtje/DarkRP/issues/1130
+
+
+NEWS 
+November 1st
+
+I fixed an exploit in FPP that allowed minges to spawn blocked props. Please update DarkRP..
