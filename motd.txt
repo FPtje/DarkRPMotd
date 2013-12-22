@@ -1,11 +1,9 @@
-Several things today:
-1. The keypad checker was broken. I've fixed this on October 29th. Please update DarkRP to fix the keypad checker.
-2. Some ATM mods contain exploits with which the player can get infinite money. Please disable or fix your ATM mods!
-3. Some server owners have trouble with doors not saving. If you have this problem, please upload your sv.db file and talk about it here:
-https://github.com/FPtje/DarkRP/issues/1130
+December 22nd
 
+I've heard that there are some addons that mess with DarkRP's code. This is a bad thing in many, many ways.
+If you know of any mods that do this, please send a message about it to @FPtje on twitter or create an issue on the github page. I'll get right on it.
+The kind of mod I'm talking about is the kind you have to install by putting it in garrysmod/gamemodes/darkrp. 
+Ring the alarm bells when an addon says that in the installation instructions.
 
-NEWS 
-November 1st
+Thank you and merry christmas.
 
-I fixed an exploit in FPP that allowed minges to spawn blocked props. Please update DarkRP..
