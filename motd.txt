@@ -5,5 +5,10 @@ If you know of any mods that do this, please send a message about it to @FPtje o
 The kind of mod I'm talking about is the kind you have to install by putting it in garrysmod/gamemodes/darkrp. 
 Ring the alarm bells when an addon says that in the installation instructions.
 
-Thank you and merry christmas.
 
+------------------
+
+January 8th
+
+Today I made a workaround for a pretty major GMod exploit. 
+Please update, especially if you see people wandering around with huge steam messages as names.
