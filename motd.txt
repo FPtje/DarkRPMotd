@@ -9,7 +9,7 @@ EXPLOIT WARNING
 
 
 
-PLEASE MAKE SURE YOUR DARKRP WAS UPDATED AFTER JANUARY 11th 12:00 GMT!
+PLEASE MAKE SURE YOUR DARKRP IS UPDATED TO VERSION 2.5.1!
 
 
 
@@ -24,7 +24,7 @@ The exploit is a terribly stupid mistake on my side. I'm very sorry. This should
 Feel free to call me a cunt on twitter: @FPtje.
 
 This message will NOT go away when you update. You are safe from the exploit if you have updated after 
-January 11th 12:00 GMT. 
+January 11th 12:00 GMT. You know that you have the fixed version if you're running DarkRP 2.5.1!
 This message will be removed on February 1st for it should have reached enough server owners by then.
 
 This message is seen by everyone, including people who can exploit it. I've tried hiding the fix, but people
@@ -33,7 +33,7 @@ I decided against keeping it secret for it is already too widespread.
 
 
 
-PLEASE MAKE SURE YOUR DARKRP WAS UPDATED AFTER JANUARY 11th 12:00 GMT!
+PLEASE MAKE SURE YOUR DARKRP IS UPDATED TO VERSION 2.5.1!
 
 
 
