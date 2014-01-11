@@ -1,14 +1,46 @@
-December 22nd
+January 11th
 
-I've heard that there are some addons that mess with DarkRP's code. This is a bad thing in many, many ways.
-If you know of any mods that do this, please send a message about it to @FPtje on twitter or create an issue on the github page. I'll get right on it.
-The kind of mod I'm talking about is the kind you have to install by putting it in garrysmod/gamemodes/darkrp. 
-Ring the alarm bells when an addon says that in the installation instructions.
+WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! 
 
 
-------------------
 
-January 8th
 
-Today I made a workaround for a pretty major GMod exploit. 
-Please update, especially if you see people wandering around with huge steam messages as names.
+EXPLOIT WARNING
+
+
+
+PLEASE MAKE SURE YOUR DARKRP WAS UPDATED AFTER JANUARY 11th 12:00 GMT!
+
+
+
+A major DarkRP exploit was released on a hack forum through which hackers can gain access to RCon and many other things.
+Many people know about this exploit and ACTIVELY ABUSE IT!
+The exploit applies if you have MySQL set up for DarkRP.
+
+It has been fixed in the latest version of DarkRP. Please update it ASAP! It is of utmost importance!
+Please also change your MySQL credentials after updating!
+
+The exploit is a terribly stupid mistake on my side. I'm very sorry. This should not have happened.
+Feel free to call me a cunt on twitter: @FPtje.
+
+This message will NOT go away when you update. You are safe from the exploit if you have updated after 
+January 11th 12:00 GMT. 
+This message will be removed on February 1st for it should have reached enough server owners by then.
+
+This message is seen by everyone, including people who can exploit it. I've tried hiding the fix, but people
+WILL find it if they look for it. This puts more pressure on server owners to update DarkRP. Sorry for that.
+I decided against keeping it secret for it is already too widespread.
+
+
+
+PLEASE MAKE SURE YOUR DARKRP WAS UPDATED AFTER JANUARY 11th 12:00 GMT!
+
+
+
+EXPLOIT WARNING
+
+
+
+
+
+WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! 
