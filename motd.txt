@@ -43,4 +43,21 @@ EXPLOIT WARNING
 
 
 
-WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! 
+UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! 
+
+
+Some servers have already seen people exploit this bug. 
+To revert the damage they've (probably) done, please run the following command:
+
+FAdmin RemovePrivilege user SetAccess
+
+This allowed normal users to set other people's access.
+
+The second thing you need to do is check your all your admin mods.
+People mainly used this exploit to make themselves admin. Since admin mods save the ranks, fixing the exploit
+won't make these people lose their admin access.
+
+Also, to be absolutely sure, change your RCon password. They should not have gotten it, but better be safe than sorry.
+
+
+UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! 
