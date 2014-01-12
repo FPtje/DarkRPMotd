@@ -3,13 +3,10 @@ January 11th
 WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! 
 
 
-
 EXPLOIT WARNING
 
 
-
 PLEASE MAKE SURE YOUR DARKRP IS UPDATED TO VERSION 2.5.1!
-
 
 
 A major DarkRP exploit was released on a hack forum through which hackers can gain access to RCon and many other things.
@@ -31,14 +28,10 @@ WILL find it if they look for it. This puts more pressure on server owners to up
 I decided against keeping it secret for it is already too widespread.
 
 
-
 PLEASE MAKE SURE YOUR DARKRP IS UPDATED TO VERSION 2.5.1!
 
 
-
 EXPLOIT WARNING
-
-
 
 
 UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! UPDATE! 
