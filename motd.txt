@@ -1,2 +1,7 @@
-February 1st.
-No news at the moment.
+February 24th
+
+I've made quite a big update to change the money printing system.
+This caused the language system to change
+It affects you if you've translated DarkRP.
+
+Please run the command darkrp_getphrases in the latest version of DarkRP to find out which phrases to translate.
