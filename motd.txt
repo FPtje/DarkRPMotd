@@ -1,7 +1,19 @@
-February 24th
+April 12th
 
-I've made quite a big change to the way money is shown.
-This caused the language system to change.
-It affects you if you've translated DarkRP.
+GOOD NEWS EVERYONE!
+DarkRP is now available on the workshop too! It's still experimental, please test it!
+If it works you could have DarkRP update itself! Wouldn't that be great?
 
-Please run the command darkrp_getphrases in the latest version of DarkRP to find out which phrases to translate.
+Have a link!
+http://steamcommunity.com/sharedfiles/filedetails/?id=248302805
+
+FAQ:
+Will the version on GitHub still be updated?
+> yes
+
+Which one is more up to date?
+> Both are equally up to date. Unless of course you use the Github version and never update. 
+> With the Workshop you'll probably get your updates sooner than with manual updating.
+
+
+Go try it out, report bugs on Github! Enjoy!
