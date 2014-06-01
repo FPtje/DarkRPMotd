@@ -16,3 +16,5 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=248302805
 
 Here's a link to the GitHub version:
 https://github.com/FPtje/DarkRP
+
+Hurray for less lag!
