@@ -1,19 +1,18 @@
-April 12th
+June 1st
 
-GOOD NEWS EVERYONE!
-DarkRP is now available on the workshop too! It's still experimental, please test it!
-If it works you could have DarkRP update itself! Wouldn't that be great?
+Guys guys guys! I just made some MAJOR changes to the performance of DarkRP!
+It should be A LOT faster now, both on networking and serverside FPS.
 
-Have a link!
+LESS LAG! PEOPLE, REJOICE!
+
+At the moment only the GitHub version has this update, so go update.
+It's a big change, so I have NOT uploaded it to the workshop yet. I'm letting the people who use the GitHub version test it and report bugs.
+
+I will upload it to the workshop if few bugs are reported within a week.
+
+Here's a link to the workshop version of DarkRP:
 http://steamcommunity.com/sharedfiles/filedetails/?id=248302805
 
-FAQ:
-Will the version on GitHub still be updated?
-> yes
 
-Which one is more up to date?
-> Both are equally up to date. Unless of course you use the Github version and never update. 
-> With the Workshop you'll probably get your updates sooner than with manual updating.
-
-
-Go try it out, report bugs on Github! Enjoy!
+Here's a link to the GitHub version:
+https://github.com/FPtje/DarkRP
