@@ -1,20 +1,15 @@
-June 1st
+February 1st 2015
 
-Guys guys guys! I just made some MAJOR changes to the performance of DarkRP!
-It should be A LOT faster now, both on networking and serverside FPS.
+FIRST NEWS IN OVER HALF A YEAR.
 
-LESS LAG! PEOPLE, REJOICE!
+I've got some good news!
 
-At the moment only the GitHub version has this update, so go update.
-It's a big change, so I have NOT uploaded it to the workshop yet. I'm letting the people who use the GitHub version test it and report bugs.
+In the latest update I added an experimental mechanism that should give you 
+better feedback when you do something wrong in the DarkRPMod. It should tell
+who is responsible, what line the error occurs on and even gives hints about
+what the cause could be or what you can do about it!
 
-I will upload it to the workshop if few bugs are reported within a week.
+Try it out, give it a swirl. 
+Update to the latest version of DarkRP through either GitHub or the workshop.
 
-Here's a link to the workshop version of DarkRP:
-http://steamcommunity.com/sharedfiles/filedetails/?id=248302805
-
-
-Here's a link to the GitHub version:
-https://github.com/FPtje/DarkRP
-
-Hurray for less lag!
+Still have problems with the errors? Head to http://forum.darkrp.com/ for help!
