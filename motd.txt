@@ -1,15 +1,16 @@
-February 1st 2015
+February 14th 2015
 
-FIRST NEWS IN OVER HALF A YEAR.
+DarkRP has updated! Everyone rejoice! Version 2.6.0 has been released!
 
-I've got some good news!
+The update will be installed automatically if you're on the workshop version of DarkRP.
+People using the GitHub version will have to update manually. Download the latest version here:
+https://github.com/FPtje/DarkRP
 
-In the latest update I added an experimental mechanism that should give you 
-better feedback when you do something wrong in the DarkRPMod. It should tell
-who is responsible, what line the error occurs on and even gives hints about
-what the cause could be or what you can do about it!
+Biggest changes:
+- Better error mechanism. It tells you what's wrong and what to do when an error occurs.
+- Jobs, shipments and all that stuff are more strictly checked. DarkRP will tell you when you've made mistakes.
+- Lots of bug fixes, speed improvements and all that stuff depending on when you last updated.
 
-Try it out, give it a swirl. 
-Update to the latest version of DarkRP through either GitHub or the workshop.
-
-Still have problems with the errors? Head to http://forum.darkrp.com/ for help!
+ALL addons, the darkrpmod and your custom stuff will work on DarkRP 2.6.0. You don't have to worry about that.
+Unless of course you edited DarkRP core files. Only then will everything break. 
+    Obviously this happens because you are a terrible person.
