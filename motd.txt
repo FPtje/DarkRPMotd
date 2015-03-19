@@ -1,16 +1,15 @@
-February 14th 2015
+March 19th 2015
 
-DarkRP has updated! Everyone rejoice! Version 2.6.0 has been released!
+Today I removed the zombie mod for DarkRP. There are several reasons for this decision:
+- Shit code: inefficient, shit interface and hard to maintain
+- Not customisable, and a lot of work to make it customisable. You can't even have it on by default
+- Very few people use it
+- Other people probably want to make a zombie mod that's much better and can do a lot more
 
-The update will be installed automatically if you're on the workshop version of DarkRP.
-People using the GitHub version will have to update manually. Download the latest version here:
-https://github.com/FPtje/DarkRP
+People who want to keep the old zombiemod can download it here:
 
-Biggest changes:
-- Better error mechanism. It tells you what's wrong and what to do when an error occurs.
-- Jobs, shipments and all that stuff are more strictly checked. DarkRP will tell you when you've made mistakes.
-- Lots of bug fixes, speed improvements and all that stuff depending on when you last updated.
+http://www.solidfiles.com/d/58925261e9/zombies.zip
 
-ALL addons, the darkrpmod and your custom stuff will work on DarkRP 2.6.0. You don't have to worry about that.
-Unless of course you edited DarkRP core files. Only then will everything break. 
-    Obviously this happens because you are a terrible person.
+Put in the darkrpmod's darkrp_modules folder. It will be exactly the same as before I removed it.
+
+Sorry for the inconvenience.
