@@ -1,36 +1,12 @@
-March 21st 2015
+July 22nd 2015
 
-DarkRP 2.6.1 Beta is now live on Github, through the normal download channels!
-Biggest change: the default F4 menu now has CATEGORIES! YAY!
-
-Some important notes here:
-- 2.6.1 is in beta because I'm not completely sure it will work with all mods.
-- The categories apply to the DEFAULT F4 MENU ONLY.
-- Custom F4 menus WILL NOT BREAK though! They'll just ignore the categories.
-- ALL your custom stuff will be in the "Other" category until you change it. See below.
-
-When downloading the latest DarkRP, ALWAYS make a backup of your old DarkRP.
-PLEASE read the wiki page on categories for a full explanation on how to use it.
-Also, it tells you how to fix all things being in the "Other" category.
-
-http://wiki.darkrp.com/index.php/DarkRP:Categories
-
----------------------------------------------------------------------------
-Also, the previous news entry because of the short time in between:
----------------------------------------------------------------------------
-
-March 19th 2015
-
-Today I removed the zombie mod for DarkRP. There are several reasons for this decision:
-- Shit code: inefficient, shit interface and hard to maintain
-- Not customisable, and a lot of work to make it customisable. You can't even have it on by default
-- Very few people use it
-- Other people probably want to make a zombie mod that's much better and can do a lot more
-
-People who want to keep the old zombiemod can download it here:
-
-http://www.solidfiles.com/d/58925261e9/zombies.zip
-
-Put in the darkrpmod's darkrp_modules folder. It will be exactly the same as before I removed it.
-
-Sorry for the inconvenience.
+Hey guys, I've made some small but VERY useful changes to FAdmin:
+    - Opening the FAdmin menu while spectating a player will now immediately
+      open it on the player's page. 
+      
+      This means you can spectate someone, press tab and immediately 
+      ban the fucker with a single mouse click!
+    - You can copy a player's SteamID by right clicking their name 
+      in the FAdmin menu
+      
+I've also made some more fixes to FAdmin spectate. 
