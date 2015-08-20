@@ -1,12 +1,17 @@
-July 22nd 2015
+August 20th 2015
 
-Hey guys, I've made some small but VERY useful changes to FAdmin:
-    - Opening the FAdmin menu while spectating a player will now immediately
-      open it on the player's page. 
-      
-      This means you can spectate someone, press tab and immediately 
-      ban the fucker with a single mouse click!
-    - You can copy a player's SteamID by right clicking their name 
-      in the FAdmin menu
-      
-I've also made some more fixes to FAdmin spectate. 
+DarkRP 2.6.2 is in beta on GitHub. If you update to the latest github version, that's what you'll get. 
+
+SO BE CAREFUL, IT HASN'T BEEN TESTED PROPERLY YET. THAT'S WHY IT'S IN BETA.
+
+The biggest changes:
+- Made DarkRP CAMI compatible. This will make DarkRP integrate with other admin mods than FAdmin when they also start supporting CAMI. DarkRP is an early adopter, so be patient with that.
+- Made DarkRP's privileges (in CAMI, but visible in FAdmin) more fine grained, giving the server owner more decision power as to which usergroups can do what with DarkRP.
+- Changed a lot of "rp_xxxx" console commands to "DarkRP xxxx" concommands and "/xxxx" chatcommands. Some of those commands changed name. 
+
+
+IF YOU'RE WONDERING WHERE ONE OF THE COMMANDS WENT, YOU CAN LOOK FOR THEM IN THE F1 MENU.
+GET THAT? THE F1 MENU!
+
+This MOTD will update when DarkRP 2.6.2 goes out of beta, which is when it will be safe to download an install.
+That will also be when the workshop updates. For now, the workshop version will remain on 2.6.1.
