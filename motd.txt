@@ -1,13 +1,9 @@
-November 21st 2015
+March 31st 2016 (local time)
 
-FAdmin's spectate functionality has been ripped out of FAdmin and released separately. 
-It's now called FSpectate. It's still in DarkRP by default, though. 
-You'll notice some changes:
+UPDATE DARKRP! UPDATE DARKRP! UPDATE DARKRP! UPDATE DARKRP! UPDATE DARKRP! UPDATE DARKRP! UPDATE DARKRP! 
 
-- Disabling FAdmin won't disable FSpectate. Disabling the "fspectate" module will.
-- FSpectate can be activated with the !spectate chat command.
-- This overrides ULX' spectate command. Run "ulx spectate" if you want ULX' spectate.
+THE LATEST VERSION IS VERY GOOD, YES!!
 
-Everything else about it is still the same.
+VERY GOOD NEW FEATURES, REVOLUTIONARY CHANGES!
 
-Seriously, try it out if you haven't yet.
+UPDATE DARKRP! UPDATE DARKRP! UPDATE DARKRP! UPDATE DARKRP! UPDATE DARKRP! UPDATE DARKRP! UPDATE DARKRP!
