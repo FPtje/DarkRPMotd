@@ -1,3 +1,13 @@
+April 9th 2016
+
+Listen up! DarkRP 2.7.0 is in Beta! Check it out!
+http://forum.darkrp.com/threads/darkrp-2-7-0.7547/
+
+This update will break addons that mess with DarkRP's database!
+Make sure to test and make sure to update your addons!
+
+----------------------------------------------------------------------------------------------------------------
+
 April 6th 2016
 
 Ayyy April fools was good. I had a good laugh. I hope you did too. Probably not, haha!
