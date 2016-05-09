@@ -1,10 +1,9 @@
-April 9th 2016
+May 9th 2016
 
-Listen up! DarkRP 2.7.0 is in Beta! Check it out!
-http://forum.darkrp.com/threads/darkrp-2-7-0.7547/
+DarkRP 2.7.0 has been released. It was released on May 1st actually
+but I'm lazy with updating this MOTD.
 
-This update will break addons that mess with DarkRP's database!
-Make sure to test and make sure to update your addons!
+Update now if you don't have it yet.
 
 ----------------------------------------------------------------------------------------------------------------
 
