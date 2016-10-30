@@ -1,40 +1,7 @@
-May 9th 2016
+Broken jobs? DarkRP telling you that the author of a file made a mistake somewhere?
 
-DarkRP 2.7.0 has been released. It was released on May 1st actually
-but I'm lazy with updating this MOTD.
+Here's a tool to help you with that!
 
-Update now if you don't have it yet.
+https://fptje.github.io/glualint-web/
 
-----------------------------------------------------------------------------------------------------------------
-
-April 6th 2016
-
-Ayyy April fools was good. I had a good laugh. I hope you did too. Probably not, haha!
-
-I'm fucking serious about the bullshit rules though.
-
-RDM, NLR, Advertising raid and FearRP are all, in increasing order, god damn bullshit.
-Try running your shitty server without them. It will make your server less shitty.
-
-Replace advertising raid with the demand that people who get raided should call the cops.
-Replace NLR with not NLR. Just stop giving a shit when someone kills their killer.
-Replace RDM with MassDM. Start getting an admin involved when someone's mass killing everyone.
-
-And last but not least, FearRP. I don't know what cunt made that bullshit up. It's by far
-the most retarded rule. Get rid of it altogether. When a mugger walks up to a player
-and says "Mug, drop x or die", and the player runs away, have the mugger shoot the fucker.
-When the mugger calls an admin for "FearRP", just kick or ban the mugger for being a dumb,
-admin addicted cunt.
-
-Also, people who say "Admin to me" in OOC chat without saying anything about their situation 
-are to be kicked or at least yelled at very loudly. Fuck those people. 
-
-More rant: Stop putting people on roofs to interrogate them you god damn incompetent shit admins.
-Seriously, what use does a "roof session" ever have? Everyone /always/ lies. You don't get ANY information
-by interrogating people, ever. When someone reports a player for some rule they're breaking (and for fuck's sake,
-not the ones mentioned above), just start spectating the cunts and see if they do it again. 
-If they do, ban the fuckers. If they don't, let the offense slip. Accept that shit may have happened once,
-but you didn't see it. Repeat offenders should not be on the server. People making one mistake
-should not be punished too harshly anyway.
-
-- FPtje
+Copy paste the code in the text editor and check out the errors. It will give you a live update on whether the errors are fixed. Super useful!
