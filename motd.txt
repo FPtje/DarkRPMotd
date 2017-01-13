@@ -1,7 +1,20 @@
-Broken jobs? DarkRP telling you that the author of a file made a mistake somewhere?
+DarkRP servers have changed over the years. Back in the day it was much more
+focussed around building things and fooling around, doing the silliest
+possible things. Currently the focus appears to have shifted towards raiding,
+mugging and hitmen. There are many complaints about this, including from me.
+DarkRP is much less fun than it used to be. The rules are too strict and leave
+no room for creative roleplay. Players bitch too much about rules being broken
+and admins are way too fucking keen on putting players on a roof when even the
+slightest thing is beyond the precise protocol they are convinced the players
+are to adhere to.
 
-Here's a tool to help you with that!
+I've written a document on what I think is THE formula for a GOOD DarkRP
+server. Please check it out:
+
+https://docs.google.com/document/d/10pvotowOA3EA7K5BMgdaKVOYjbrbx6dxrQn4LWxm30A
+
+
+Also, remember that glualint-web is a thing and can tell you what's wrong with
+your jobs and shipments (mostly): 
 
 https://fptje.github.io/glualint-web/
-
-Copy paste the code in the text editor and check out the errors. It will give you a live update on whether the errors are fixed. Super useful!
