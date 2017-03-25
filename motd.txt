@@ -1,3 +1,13 @@
+====== PUBLIC SERVICE ANNOUNCEMENT ======
+======          25-03-2017         ======
+
+Scriptenforcer was shut down. This means that some (not all) scriptfodder
+addons may suddenly start throwing errors or whine about not being purchased.
+Please update those addons if possible or disable them until the maintainer
+has fixed the issues.
+
+=========================================
+
 DarkRP servers have changed over the years. Back in the day it was much more
 focussed around building things and fooling around, doing the silliest
 possible things. Currently the focus appears to have shifted towards raiding,
