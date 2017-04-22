@@ -13,6 +13,10 @@ server. Please check it out:
 
 https://docs.google.com/document/d/10pvotowOA3EA7K5BMgdaKVOYjbrbx6dxrQn4LWxm30A
 
+UPDATE: Also do check out the slightly alternative view from Dogman_35. It's a
+somewhat bigger read, but it shows some deeper insight and some criticism on
+my own ideas: https://steamcommunity.com/sharedfiles/filedetails/?id=739536389
+
 
 Also, remember that glualint-web is a thing and can tell you what's wrong with
 your jobs and shipments (mostly): 
