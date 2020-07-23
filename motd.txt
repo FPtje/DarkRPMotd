@@ -1,24 +1,12 @@
-DarkRP servers have changed over the years. Back in the day it was much more
-focussed around building things and fooling around, doing the silliest
-possible things. Currently the focus appears to have shifted towards raiding,
-mugging and hitmen. There are many complaints about this, including from me.
-DarkRP is much less fun than it used to be. The rules are too strict and leave
-no room for creative roleplay. Players bitch too much about rules being broken
-and admins are way too fucking keen on putting players on a roof when even the
-slightest thing is beyond the precise protocol they are convinced the players
-are to adhere to.
+---- PUBLIC SERVICE ANNOUNCEMENT ----
 
-I've written a document on what I think is THE formula for a GOOD DarkRP
-server. Please check it out:
+The DarkRP forums and Wiki on DarkRP.com are shutting down!
+Fear not! There are replacements: 
 
-https://docs.google.com/document/d/10pvotowOA3EA7K5BMgdaKVOYjbrbx6dxrQn4LWxm30A
+Join the official Discord here:
+https://discord.com/invite/DYxVExH
 
-UPDATE: Also do check out the slightly alternative view from Dogman_35. It's a
-somewhat bigger read, but it shows some deeper insight and some criticism on
-my own ideas: https://steamcommunity.com/sharedfiles/filedetails/?id=739536389
+Or find the new wiki here:
+https://darkrp.miraheze.org/wiki/Main_Page
 
-
-Also, remember that glualint-web is a thing and can tell you what's wrong with
-your jobs and shipments (mostly): 
-
-https://fptje.github.io/glualint-web/
+---- PUBLIC SERVICE ANNOUNCEMENT ----
